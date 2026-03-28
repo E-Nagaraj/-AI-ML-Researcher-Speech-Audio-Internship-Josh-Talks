@@ -1,0 +1,9 @@
+transformers
+datasets==2.18.0
+evaluate
+jiwer
+librosa
+soundfile
+accelerate
+torch
+tqdm
